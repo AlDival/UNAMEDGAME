@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right,#34ddef, #6f63d8); 
+}
+
+#Login{
+    text-align: center;
+}
+
+.inputIndex{
+    display: inline;
+}
+
+.UserImg{
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+}
