@@ -1,2 +1,2 @@
 # UNAMEDGAME
-A game that I am going to make with the node rpo
+A game that I am going to make with the node API Electron.
