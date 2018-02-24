@@ -19,7 +19,14 @@ body{
 #login{
     color: #565a60;
     background-color: #d0d8e5;
-    width: 5%;
+    width: 60px;
     border-radius: 5px;
-    
+    padding: 5px;
+    display: inline-block;
+}
+
+#Password{
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
 }
