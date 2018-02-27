@@ -31,3 +31,12 @@ body{
     display: inline-block;
 }
 
+#hint{
+    border: none;
+    background: none;
+    position: absolute;
+    top: 42%;
+    right: 50%;
+
+}
+
