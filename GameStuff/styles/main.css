@@ -1,0 +1,15 @@
+.taskBar{
+    display: inline;
+    
+}
+
+.task-bar{
+    background-color: #bc7bf2;
+    width: 100%;
+    height: 10%;
+    position: fixed;
+    top: 90%;
+    margin: 0;
+    overflow: auto;
+
+}
