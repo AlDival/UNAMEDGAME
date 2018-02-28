@@ -1,15 +1,25 @@
+body{
+    margin: 0;
+}
 .taskBar{
     display: inline;
     
 }
 
 .task-bar{
-    background-color: #bc7bf2;
-    width: 100%;
-    height: 10%;
-    position: fixed;
-    top: 90%;
-    margin: 0;
-    overflow: auto;
+    background-color: #476089;
+    width: 97.9%;
+    height: 3.3%;
+    position: absolute;
+    top: 95%;
+    overflow: hidden;
+}
+
+.task{
+    padding-right: 3px;
+    padding-left: 3px;
+    height: 90%;
+    width: 5%;
+    border-radius: 50%;
 
 }
