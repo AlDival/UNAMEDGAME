@@ -29,6 +29,11 @@ body{
     background-color: #476075;
 }
 
-#desktop{
-    background-image: url('img/Bimg');
+/*#desktop{
+    background-image: url("img/Bimg.png");
+}*/
+
+#background{
+    width: 50%;
+    height: 10%;
 }
