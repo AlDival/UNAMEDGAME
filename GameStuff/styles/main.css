@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    background-image: url('img/Bimg');
 }
 .taskBar{
     display: inline;
@@ -27,4 +28,10 @@ body{
 .task:hover{
     opacity: 0.5;
     background-color: #476075;
+}
+
+#desktop{
+
+    height: 100%;
+    width: 100%;
 }

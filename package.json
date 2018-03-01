@@ -1,0 +1,23 @@
+{
+  "name": "unamedgame",
+  "version": "1.0.0",
+  "description": "A game that is been made in the electron api",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darth22345/UNAMEDGAME.git"
+  },
+  "author": "Al'Dival",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darth22345/UNAMEDGAME/issues"
+  },
+  "homepage": "https://github.com/darth22345/UNAMEDGAME#readme"
+}
