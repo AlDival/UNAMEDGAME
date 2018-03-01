@@ -19,7 +19,12 @@ body{
     padding-right: 3px;
     padding-left: 3px;
     height: 90%;
-    width: 5%;
+    width: 4%;
     border-radius: 50%;
 
+}
+
+.task:hover{
+    opacity: 0.5;
+    background-color: #476075;
 }
