@@ -1,6 +1,5 @@
 body{
     margin: 0;
-    background-image: url('img/Bimg');
 }
 .taskBar{
     display: inline;
@@ -31,7 +30,5 @@ body{
 }
 
 #desktop{
-
-    height: 100%;
-    width: 100%;
+    background-image: url('img/Bimg');
 }
